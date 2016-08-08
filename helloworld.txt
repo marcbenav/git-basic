@@ -2,4 +2,6 @@ Hello #TeamJohhny5!
 Leave without saying anything
 This is about all i can say
 This is a change i made on github!
-This is a change 
+This is a change
+
+Hello from the cloned project
